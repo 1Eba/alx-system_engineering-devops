@@ -6,8 +6,6 @@ Command line for the win
 
 By Sylvain Kalache, co-founder at Holberton School
  
- Manual QA review must be done (request it when you are done with the project)
-
 
  Background Context
 
