@@ -1,4 +1,19 @@
 0x08. Networking basics #1
+
+
+
+
+
+
+![s7kpNYq](https://user-images.githubusercontent.com/88311316/150182334-3e57da28-a5b5-4903-8f76-5bb120d3bad7.png)
+
+
+
+
+
+
+
+
  
 By Sylvain Kalache
 
