@@ -1,5 +1,7 @@
 ## 0x16. API advanced
 
+![WIxXad8](https://user-images.githubusercontent.com/88311316/165376731-a82c70ac-4581-49b7-a5cf-f6064bc2c421.png)
+
 ## Background Context
 
 Quesions involving APIs are common for interviews. Sometimes they’re as simple as ‘write a Python script that queries a given endpoint’, sometimes they require you to use recursive functions and format/sort the results.
