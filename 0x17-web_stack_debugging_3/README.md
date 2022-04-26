@@ -4,8 +4,8 @@
 ```
 For this project, students are expected to look at these concepts:
 
-` Web Server
-` Web stack debugging
+[Web Server]https://alx-intranet.hbtn.io/concepts/17
+[Web stack debugging]https://alx-intranet.hbtn.io/concepts/68
 ```
 
 # Background Context
