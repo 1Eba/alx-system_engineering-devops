@@ -9,7 +9,7 @@ For this project, students are expected to look at these concepts:
 ```
 
 # Background Context
-
+![d42WuBh](https://user-images.githubusercontent.com/88311316/165382558-d91974d1-95f9-4b49-9124-335f14ee5302.png)
 
 When debugging, sometimes logs are not enough. Either because the software is breaking in a way that was not expected and the error is not being logged, or because logs are not providing enough information. In this case, you will need to go down the stack, the good news is that this is something Holberton students can do :)
 
